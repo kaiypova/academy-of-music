@@ -1,0 +1,30 @@
+SECTION{
+display:block;
+text-align:center;
+margin:10px 20px 10px 20px;
+margin-top:12pt;
+font-size:15pt;
+border: 2px solid gold;
+}
+REBELLION{
+font-style:italic;
+text-align:center;
+display: block;
+border: 2px solid rgb(44, 40, 255);
+margin: 10px;}
+REASON{ 
+display:block;
+text-align:center;
+font-weight:bold;
+}
+FOLLOW{
+font-size: 35px;
+color:rgb(255, 227, 115);
+font-weight: bold;
+}
+NUMBER{
+display:block;
+text-align:center;
+color:red;
+font-weight: bold;
+}
